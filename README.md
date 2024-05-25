@@ -1,4 +1,4 @@
-# Doctor Management - Project Setup
+# Appointment Booking System - Project Setup
 
 ## Technologies Used
 
@@ -12,7 +12,7 @@
 **Clone the Repository**: Clone this repository to your local machine using the following command:
 
 ```
-git clone https://github.com/piyushnakrani1/doctor_management.git
+git clone https://github.com/piyushnakrani1/appointment_booking_system.git
 ```
 
 ## Setup Backend
